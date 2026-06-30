@@ -1,2 +1,3 @@
-# Blood-Donor-System
-This project is to find and donate the blood through The Data we stored 
+# Local Blood Donor Management System
+
+Java + MySQL + HTML + CSS + JavaScript starter project for VS Code.
